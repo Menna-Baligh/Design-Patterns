@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.png" alt="PHP Design Patterns Cover" width="900">
+</p>
+
 # 🎨 PHP Design Patterns  
 
 Welcome to my learning journey! 🚀  
