@@ -9,8 +9,20 @@ But I believe that **sharing while learning** is the best way to grow and help o
 ---
 
 ## 📚 What’s Inside?  
-- Clear PHP examples for different design patterns.  
-- Explanations in Markdown  
+
+This repository is structured to help you **learn design patterns step by step**.  
+Each pattern has its **own folder**, and inside it you will find two subfolders:  
+
+- **`before/`** 🟥  
+  - Contains the code **before applying the pattern**.  
+  - Shows the real problem (tight coupling, if/else hell, etc.).  
+  - Includes a `Problem.md` file that **explains the issue in detail**.  
+
+- **`after/`** 🟩  
+  - Contains the **refactored code after applying the pattern**.  
+  - Shows the clean solution using the chosen design pattern.  
+  - Includes a `Solution.md` file that **explains how the pattern solves the problem**.  
+
 
 ---
 
